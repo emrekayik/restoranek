@@ -1,0 +1,22 @@
+{
+    "urunler":[
+        {
+            "id":1,
+            "ad":"Menemen",
+            "fiyat":10,
+            "kategori":"Yemek"
+        },
+        {
+            "id":2,
+            "ad":"Çay",
+            "fiyat":5,
+            "kategori":"İçecek"
+        },
+        {
+            "id":3,
+            "ad":"Kahve",
+            "fiyat":15,
+            "kategori":"İçecek"
+        }
+    ]
+}
